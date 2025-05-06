@@ -1,15 +1,11 @@
-# 🧙‍♂️ Lakera Gandalf AI Challenge Solutions
-This repository contains various projects I've worked on, including **AI challenges**, **game development**, and more.
-
+# Welcome To My AI Project Repository
 ## Projects
 
-### 1. [Jailbreaking AI]
-Check out my **Tongue Tied** project where I worked on creating a fun and engaging game. Detailed documentation can be found in the [Tongue Tied README](./TongueTied/README.md).
+### 1. [Jailbreaking AI](./Jailbreaks/README.md)
+My Jail break output for ethical reasoons the prompts will not be displayed although I will display snippets of the output. 
 
 ### 2. [Gandalf AI Challenge](./Gandalf/README.md)
-My solutions to **Lakera Gandalf AI Challenge**.
+My solutions to **[Lakera Gandalf AI Challenge README](./TongueTied/README.md)**.
 
 ### 3. [Tongue Tied Project](./TongueTied/README.md)
-My solutions to [Tongue Tied README](./TongueTied/README.md).
-
-Feel free to explore each folder for the project-specific details.
+My solutions to **[Tongue Tied README](./TongueTied/README.md)**.
